@@ -41,3 +41,8 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 disqus:         jekyll-tale
 
 remote_theme: chesterhow/tale
+
+comment:
+  provider:	"disqus"
+  disqus:
+    shrotname:	"cwogong"
