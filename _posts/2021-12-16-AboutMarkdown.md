@@ -40,20 +40,7 @@ comments: true
 
 
 ## 4. Markdown 의 문법 
-### 큰 제목: 문서 제목
-```
-This is Header1
-==========
-```
-This is Header1
-==========
-### 작은 제복: 문서 부제목
-```
-This is Header2
-------------------
-```
-This is Header2
-----------------
+
 ### 글머리: 1~6 까지 지원
 ```
 # This is Header1
@@ -90,12 +77,6 @@ __This is bold__
 ```
 __This is bold__
 
-### 취소선: Strikethrough
-```
-~This is Strikethrough~
-```
-~This is Strikethrough~
-
 ### 코드 작성
 ```
 python 에서 출력을 할 때는 `print()`를 이용합시다.
@@ -104,15 +85,16 @@ python 에서 출력을 할 때는 `print()`를 이용합시다.
 
 ### 코드 블록
 ```
+ python 에서 함수 만들기
+ ```python
+ def sum(a, b):
+     return a + b
+ ```
+```
+
 python 에서 함수 만들기
 ```python
 def sum(a, b):
-    return a+b
-```
-```
-python 에서 함수 만들기
-```python
-def sum(a, b):
-    return a+b
+    return a + b
 ```
 
