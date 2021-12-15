@@ -1,7 +1,6 @@
 # Site settings
 title:          My First Blog
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
 url:            "https://cwogong.github.io"
 
 # Google Analytics
