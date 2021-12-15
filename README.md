@@ -28,7 +28,7 @@ Jekyll new . --force
 
 
 
-## 3. Markdown 연습 ( *_posts* 디렉토리 사용)
+## 3. Markdown 연습 ( **_posts** 디렉토리 사용)
 
 
 **_posts** 디렉토리에 **2021-12-15-MyFirstMarkdown.md** 파일을 생성
