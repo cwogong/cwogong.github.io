@@ -12,7 +12,7 @@ comments: true
 
 
 예)
-```
+```python
 print("Hello, World!")
 ```
 이렇게 입력하면, " *Hello, World!* "가 출력된다.
@@ -23,7 +23,7 @@ print("Hello, World!")
 If you want to print something in Python, you can use `print()`
 
 ex)
-```
+```python
 print("Hello, World!")
 ```
 then, you can print " *Hello, World!*"
