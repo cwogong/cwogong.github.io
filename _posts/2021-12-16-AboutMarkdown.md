@@ -84,17 +84,9 @@ python 에서 출력을 할 때는 `print()`를 이용합시다.
 python 에서 출력을 할 때는 `print()`를 이용합시다.
 
 ### 코드 블록
-```
- python 에서 함수 만들기
- ```python
- def sum(a, b):
-     return a + b
- ```
-```
 
-python 에서 함수 만들기
+```~~~```을 이용하여 작성
 ```python
 def sum(a, b):
-    return a + b
+  return a + b
 ```
-
