@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Markdown
+author: "Hwang ChanWoo"
 ---
 
 ### How to print in Python
